@@ -79,8 +79,9 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Laravel 20180802 1556 start!
                 </div>
+                <p>{{ $greeting }} welwel welwel</p>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
