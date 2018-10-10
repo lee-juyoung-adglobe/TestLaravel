@@ -61,7 +61,7 @@ class PostsController extends Controller
     public function edit($id)
     {
         //
-        return '[' . __METHOD__ . '] ' . 'respond an edit form for id of ' . $id;
+        return '[' . __METHOD__ . '] ' . '201810 respond an edit form for id of ' . $id;
     }
 
     /**
